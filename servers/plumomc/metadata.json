@@ -9,7 +9,7 @@
     "minecraftVersions": [
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#cc0000",

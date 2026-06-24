@@ -18,7 +18,7 @@
     ],
     "minecraftVersions": [
         "1.21.*",
-        "26.*"
+        "26.1.*"
     ],
     "primaryRegion": "EU",
     "regions": [
